@@ -10,4 +10,6 @@ server.py: This file contains all the actions that the client can send to the so
 
 # To get started
 
-// python server.py
+```
+client.py
+```
