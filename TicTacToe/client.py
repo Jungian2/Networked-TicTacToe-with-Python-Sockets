@@ -6,7 +6,7 @@ hostname = socket.gethostname()
 
 # Host and port information needed to join the server
 host = socket.gethostbyname(hostname)
-port = 50010
+port = 8080
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)  # Creates client socket object
 

@@ -6,7 +6,7 @@ import random
 hostname = socket.gethostname()
 host = socket.gethostbyname(hostname)  # The servers IP address
 print(host)
-port = 50010
+port = 8080
 matrix = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]  # Matrix used to store values by both clients
 
 player_one = 1
