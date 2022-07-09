@@ -1,4 +1,4 @@
-# Networked-TicTacToe
+# Networked-Tic Tac Toe with Python Sockets
 
 This is a Tic-tac-toe game written in python version 3.7.4 and powered by a python sockets. The application is separated into two different sections: client.py and server.py.
 
