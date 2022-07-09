@@ -1,0 +1,4 @@
+Max | Wins: 2
+Harry | Wins: 0
+Ethan | Wins: 3
+George | Wins: 1
