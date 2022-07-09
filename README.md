@@ -1,6 +1,6 @@
 # Networked Tic-Tac-Toe Game with Python Sockets
 
-![image](https://user-images.githubusercontent.com/84760592/178110979-86597d45-08c8-49b4-aa43-b0a8807bd31f.png)
+![image](https://user-images.githubusercontent.com/84760592/178111008-7e520164-015a-49ee-aa82-5c0459985f5d.png)
 
 
 
