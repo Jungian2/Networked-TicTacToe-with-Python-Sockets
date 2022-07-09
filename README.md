@@ -1,6 +1,7 @@
 # Networked Tic-Tac-Toe Game with Python Sockets
 
-![image](https://user-images.githubusercontent.com/84760592/178110570-b719d275-618e-4d6c-8f68-f1717bff5ca1.png)
+![image](https://user-images.githubusercontent.com/84760592/178110979-86597d45-08c8-49b4-aa43-b0a8807bd31f.png)
+
 
 
 This is a Tic-tac-toe game written in python version 3.8 and powered by python sockets. The application is separated into two different sections: client.py and server.py.
